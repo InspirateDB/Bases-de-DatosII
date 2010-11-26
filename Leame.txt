@@ -1,0 +1,12 @@
+leame
+
+Proyectos base de datos version 0.1
+
+Introduccion
+ 
+Estos archivos fueron desarrollados con el fin de ayudar a la comunidad
+estudiantil en caso de necesitar esta informacion para su formacion.
+Todos los archivos presentes fueron desarrollados y probados en postgressql
+version 1.10.3, sistema operativo Windows 7 profesional.
+Son software libre para que se pueda acceder a el sin restricciones para 
+sus posteriores cambios. 
